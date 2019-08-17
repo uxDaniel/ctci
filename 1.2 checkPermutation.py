@@ -1,6 +1,6 @@
 # Check Permutation: Given two strings,write a method to decide if one is a permutation of the other.
 
-# O(n + log n)
+# O(n + n log n)
 # def checkPermutation(str1, str2):
 #     if len(str1) != len(str2):
 #         return False
